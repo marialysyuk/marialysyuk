@@ -1,8 +1,11 @@
 ## Hello, I'm Maria Lysyuk
 
 ### About me
-- I'm currently studying data science at Skoltech
+- I'm currently studying Data Science at Skoltech
+- Right now I'm working on a project on KGBA (knowledge-based question answering) for the analysis of biomedical data on bacterial molecular targets, antibiotics and antimicrobal resistance
 - I'm passinonate about NLP
+- I've graduated from HSE and NES Econ departments
+- I dream to create the inidivdual educational paths based on the intersection of NLP, Recommender systems and Causal ML. I'm looking forward to collaborate on such project. Reach me if you are interested!
 
 ### Let's get in touch
 
