@@ -1,10 +1,10 @@
-### Hello, I'm Maria Lysyuk
+## Hello, I'm Maria Lysyuk
 
-#### About me
+### About me
 - I'm currently studying data science at Skoltech
 - I'm passinonate about NLP
 
-#### Let's get in touch
+### Let's get in touch
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/maria-lysyuk/">
@@ -20,6 +20,8 @@
 
 ### Glad to see you here!
 <img src="https://komarev.com/ghpvc/?username=marialysyuk&style=flat-square&color=blue" alt=""/>
+
+### My stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=marialysyuk&theme=elegant)](https://git.io/streak-stats)
 
