@@ -21,5 +21,5 @@
 ### Glad to see you here!
 <img src="https://komarev.com/ghpvc/?username=marialysyuk&style=flat-square&color=blue" alt=""/>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zlatamaria&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<https://github-readme-streak-stats.herokuapp.com/?user=marialysyuk>
