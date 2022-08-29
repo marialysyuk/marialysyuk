@@ -21,8 +21,8 @@
 ### Glad to see you here!
 <img src="https://komarev.com/ghpvc/?username=marialysyuk&style=flat-square&color=blue" alt=""/>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=marialysyuk&theme=jolly)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=marialysyuk&theme=elegant)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marialysyuk&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marialysyuk&layout=compact&theme=elegant)](https://github.com/anuraghazra/github-readme-stats)
 
 
