@@ -17,5 +17,3 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
-
-#### Glad to see you here![visitors](https://visitor-badge.glitch.me/badge?page_id=${marialysyuk})
