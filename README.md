@@ -26,7 +26,7 @@
 
 ### My stats
 
-[comment]:[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=marialysyuk&theme=elegant)](https://git.io/streak-stats)
+[comment]:[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=marialysyuk&theme=elegant)](https://git.io/streak-stats)]
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=marialysyuk&show_icons=true&theme=elegant)
 
