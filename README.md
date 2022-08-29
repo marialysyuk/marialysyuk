@@ -17,3 +17,5 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marialysyuk&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
