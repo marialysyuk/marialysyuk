@@ -22,4 +22,4 @@
 <img src="https://komarev.com/ghpvc/?username=marialysyuk&style=flat-square&color=blue" alt=""/>
 
 
-< https://github-readme-streak-stats.herokuapp.com/?user=marialysyuk>
+<https://github-readme-streak-stats.herokuapp.com/?user=marialysyuk>
