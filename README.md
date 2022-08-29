@@ -26,7 +26,10 @@
 
 ### My stats
 
-![My stats](https://github-readme-stats.vercel.app/api?username=marialysyuk&show_icons=true&theme=elegant) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marialysyuk&layout=compact&theme=elegant)](https://github.com/anuraghazra/github-readme-stats)
+<p float="left">
+  <![My stats](https://github-readme-stats.vercel.app/api?username=marialysyuk&show_icons=true&theme=elegant)>
+  <[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marialysyuk&layout=compact&theme=elegant)](https://github.com/anuraghazra/github-readme-stats)> 
+</p>
 
 
 [comment]: https://www.sitepoint.com/github-profile-readme/
