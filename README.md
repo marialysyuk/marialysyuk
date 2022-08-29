@@ -13,7 +13,7 @@
   <a href="your-gmail-URL">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-    <a href="your-telegram-URL">
+    <a href="https://t.me/zlatamaria">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
