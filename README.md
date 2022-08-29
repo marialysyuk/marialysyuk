@@ -26,7 +26,9 @@
 
 ### My stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=marialysyuk&theme=elegant)](https://git.io/streak-stats)
+[comment]:[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=marialysyuk&theme=elegant)](https://git.io/streak-stats)
+
+![My stats](https://github-readme-stats.vercel.app/api?username=marialysyuk&show_icons=true&theme=elegant)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marialysyuk&layout=compact&theme=elegant)](https://github.com/anuraghazra/github-readme-stats)
 
