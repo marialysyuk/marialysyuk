@@ -18,7 +18,8 @@
   </a>
 </div>
 
-Glad to see you here! <img src="https://komarev.com/ghpvc/?username=marialysyuk&style=flat-square&color=blue" alt=""/>
+### Glad to see you here!
+<img src="https://komarev.com/ghpvc/?username=marialysyuk&style=flat-square&color=blue" alt=""/>
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marialysyuk&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+< https://github-readme-streak-stats.herokuapp.com/?user=marialysyuk>
