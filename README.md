@@ -28,3 +28,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marialysyuk&layout=compact&theme=elegant)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[comment]: https://www.sitepoint.com/github-profile-readme/
