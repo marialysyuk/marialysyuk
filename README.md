@@ -34,5 +34,5 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marialysyuk&layout=compact&theme=elegant)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
-[comment]: https://www.sitepoint.com/github-profile-readme/
-[comment]: https://javascript.plainenglish.io/how-to-create-an-awesome-github-profile-readme-a474d5b45645
+<!-- https://www.sitepoint.com/github-profile-readme/-->
+<!--[comment]: https://javascript.plainenglish.io/how-to-create-an-awesome-github-profile-readme-a474d5b45645-->
