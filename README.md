@@ -21,8 +21,8 @@
   </a>
 </div>
 
-### Glad to see you here!
-<img src="https://komarev.com/ghpvc/?username=marialysyuk&style=flat-square&color=blue" alt=""/>
+<!--### Glad to see you here!-->
+<!--<img src="https://komarev.com/ghpvc/?username=marialysyuk&style=flat-square&color=blue" alt=""/>-->
 
 ### My stats
 
