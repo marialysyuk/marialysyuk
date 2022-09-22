@@ -24,10 +24,10 @@
 <!--### Glad to see you here!-->
 <!--<img src="https://komarev.com/ghpvc/?username=marialysyuk&style=flat-square&color=blue" alt=""/>-->
 
-### My stats
+<!--### My stats
 
-![](https://raw.githubusercontent.com/marialysyuk/profile-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/marialysyuk/profile-stats/master/generated/languages.svg#gh-light-mode-only)
+<!--![](https://raw.githubusercontent.com/marialysyuk/profile-stats/master/generated/overview.svg#gh-light-mode-only)-->
+<!--![](https://raw.githubusercontent.com/marialysyuk/profile-stats/master/generated/languages.svg#gh-light-mode-only)-->
 
 
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=marialysyuk&theme=elegant&background=000000)](https://git.io/streak-stats)-->
