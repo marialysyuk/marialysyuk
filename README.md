@@ -6,7 +6,7 @@
 - I'm passinonate about NLP
 - I've graduated from HSE and NES Econ departments
 - I dream to create the inidivdual educational paths based on the intersection of NLP, Recommender systems and Causal ML. I'm looking forward to collaborate on such project. Reach me if you are interested!
-
+- My tg channel about NLP and texts in general: https://t.me/yumtales
 ### Let's get in touch
 
 <div id="badges">
