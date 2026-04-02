@@ -1,4 +1,4 @@
-## Hello, I'm Maria Lysyuk
+## Hello, I'm Maria Marina
 
 ### About me
 - I am 3d year PhD student in Conputer Science at Skoltech and a Research Fellow in AIRI
