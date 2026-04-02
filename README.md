@@ -5,14 +5,14 @@
 - I'm interested on the robustness and interpretability of large language models, particularly in relation to factuality, hallucinations, and the nature of their learned knowledge. 
 - I've obtained B.A. in economics from HSE, M.A. in economics from NES and M.S. in data science from Skoltech
 - My extra interest lies in the application of AI in education. I dream to create the inidivdual educational paths based on the intersection of NLP, Recommender systems and Causal ML. I'm looking forward to collaborate on such project. Reach me if you are interested!
-- My tg channel about NLP and texts in general: https://t.me/yumtales
+- My tg channel about NLP and texts in general: https://t.me/mashin_learning_tv
 ### Let's get in touch
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/maria-lysyuk/">
+  <a href="[https://www.linkedin.com/in/maria-lysyuk/](https://www.linkedin.com/in/maria-marina-nlp/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:lysyuk.m.v@gmail.com">
+  <a href="mailto:m.marina.scientia@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
     <a href="https://t.me/zlatamaria">
