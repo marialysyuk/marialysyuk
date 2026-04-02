@@ -1,10 +1,10 @@
 ## Hello, I'm Maria Lysyuk
 
 ### About me
-- Right now I'm working on a project on KGBA (knowledge-based question answering) for the analysis of biomedical data on bacterial molecular targets, antibiotics and antimicrobal resistance
-- I'm passinonate about NLP
-- I've graduated from HSE and NES Econ departments
-- I dream to create the inidivdual educational paths based on the intersection of NLP, Recommender systems and Causal ML. I'm looking forward to collaborate on such project. Reach me if you are interested!
+- I am 3d year PhD student in Conputer Science at Skoltech and a Research Fellow in AIRI
+- I'm interested on the robustness and interpretability of large language models, particularly in relation to factuality, hallucinations, and the nature of their learned knowledge. 
+- I've obtained B.A. in economics from HSE, M.A. in economics from NES and M.S. in data science from Skoltech
+- My extra interest lies in the application of AI in education. I dream to create the inidivdual educational paths based on the intersection of NLP, Recommender systems and Causal ML. I'm looking forward to collaborate on such project. Reach me if you are interested!
 - My tg channel about NLP and texts in general: https://t.me/yumtales
 ### Let's get in touch
 
