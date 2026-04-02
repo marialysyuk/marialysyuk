@@ -9,7 +9,7 @@
 ### Let's get in touch
 
 <div id="badges">
-  <a href="[https://www.linkedin.com/in/maria-lysyuk/](https://www.linkedin.com/in/maria-marina-nlp/)">
+  <a href="https://www.linkedin.com/in/maria-marina-nlp/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:m.marina.scientia@gmail.com">
